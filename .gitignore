@@ -1,0 +1,18 @@
+# dependencies
+/node_modules
+
+# npm debugging logs
+npm-debug.log
+yarn-error.log
+
+# production build
+/build
+
+# macOS
+.DS_Store
+
+# JetBrains IDEs
+.idea/
+
+# Visual Studio Code
+.vscode/
